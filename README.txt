@@ -30,7 +30,7 @@ The resulting data will be saved in the 'output' folder.
 # Input data
 
 The data used in this study was obtained from various organisations and online sources, and is open-source. It was extracted from the original data types, pre-processed according to the methodology of the study and rewritten to csv files.
-The head series were pre-cleaned according to the methodology of Retike et al. (2022). No data alterations were performed on the meteo and environmental variables data beyond, e.g., extracting specific periods of the time series.
+The head series were pre-cleaned. No data alterations were performed on the meteo and environmental variables data beyond, e.g., extracting specific periods of the time series.
 
 1. Groundwater data ('hydraulic_head.csv', [m]) was provided upon request by  the Republic of Estonia Environment Agency, the Latvian Environment, Geology, and Meteorology Center, and the Lithuanian Geological Survey.
 2. Daily precipitation ('precipitation.csv', [mm/d]) and temperature data ('temperature_mean.csv', [degree Celcius]) were obtained from the European Climate Assessment & Dataset E-OBS gridded data ensemble (v.25.0e, resolution 0.1 degrees) (Cornes et al. 2018) from the closest cell center.
